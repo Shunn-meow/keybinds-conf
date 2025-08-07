@@ -1,9 +1,9 @@
 
 # 🧠 Hyprland Keybinds Documentation
 
-Esta documentación describe los atajos de teclado definidos en tu configuración de Hyprland, organizada por secciones funcionales.
+Atajos de teclado de Hyprland
 
----
+
 
 ## 🌐 Submap Inicial
 
@@ -36,14 +36,6 @@ Define el submap por defecto llamado `global`, desde donde se ejecutan la mayor�
 
 ---
 
-## 💡 Brillo
-
-| Tecla | Acción |
-|------|--------|
-| XF86MonBrightnessUp | Subir brillo |
-| XF86MonBrightnessDown | Bajar brillo |
-
----
 
 ## 🎵 Media
 
@@ -52,7 +44,6 @@ Define el submap por defecto llamado `global`, desde donde se ejecutan la mayor�
 | Ctrl + Super + Space, XF86AudioPlay/Pause | Toggle de reproducción |
 | Ctrl + Super + = / XF86AudioNext | Siguiente canción |
 | Ctrl + Super + - / XF86AudioPrev | Canción anterior |
-| XF86AudioStop | Detener reproducción |
 
 ---
 
@@ -60,7 +51,7 @@ Define el submap por defecto llamado `global`, desde donde se ejecutan la mayor�
 
 | Tecla | Acción |
 |------|--------|
-| Ctrl + Super + Shift + R | `caelestia kill` |
+| Ctrl + Super + Shift + R | `caelestia kill` | restarrt |
 | Ctrl + Super + Alt + R | `caelestia kill` + `caelestia shell -d` |
 
 ---
@@ -102,8 +93,6 @@ Define el submap por defecto llamado `global`, desde donde se ejecutan la mayor�
 
 Incluye navegación, movimiento, cambio de tamaño, centrado, pin, fullscreen, etc.
 
-Ejemplos:
-
 | Tecla | Acción |
 |------|--------|
 | Super + Arrow | Mover foco |
@@ -131,10 +120,10 @@ Ejemplos:
 | Tecla | App |
 |------|-----|
 | Super + T | Terminal (foot) |
-| Super + W | Navegador (zen-browser) |
-| Super + C | VSCodium |
+| Super + B | Brave |
+| Super + C | VSCode |
 | Super + G | GitHub Desktop |
-| Super + E | Thunar |
+| Super + S | Spotify |
 | Super + Alt + E | Nemo |
 | Ctrl + Alt + Escape | QPS |
 | Ctrl + Alt + V | Pavucontrol |
